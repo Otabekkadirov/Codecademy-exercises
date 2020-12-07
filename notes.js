@@ -1,13 +1,17 @@
 // What is JavaScript?
-// JavaScript is a powerful, flexible, and fast programming language now being used for increasingly complex web development and beyond!
+/* JavaScript is a powerful, flexible, and fast programming language now being used 
+for increasingly complex web development and beyond!*/
 
-
-// Console  - The console is a panel that displays important messages, like errors, for developers. Much of the work the computer does with our code is invisible to us by default.
+// Console
+/* The console is a panel that displays important messages, 
+like errors, for developers. Much of the work the computer does with 
+our code is invisible to us by default.*/
 console.log(26);
 console.log(3);
 
 
-// Data types - Data types are the classifications we give to the different kinds of data that we use in programming.
+/* Data types - Data types are the classifications we give to the different 
+kinds of data that we use in programming.*/
 console.log('JavaScript');
 console.log(2011);
 console.log('Woohoo! I love to code! #codecademy');
